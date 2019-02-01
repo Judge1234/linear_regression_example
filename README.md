@@ -1,5 +1,10 @@
 <h3>Linear Regression Example</h3>
 
+Simple linear regression implemented with numpy on dummy data. 
+Script includes all adjustable parameters.
+
+<i>- JudGe</i>
+
 
 
 
